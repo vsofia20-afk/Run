@@ -1,2 +1,3 @@
 # Run
-In game of horror 
+In game of horror and try to survive
+:) 
